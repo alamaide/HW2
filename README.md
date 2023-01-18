@@ -1,3 +1,3 @@
 # HW2
 
-Daniel Kamanda & Alexandria Lamaide
+Alexandria Lamaide P1 / Daniel Kamanda P2 
